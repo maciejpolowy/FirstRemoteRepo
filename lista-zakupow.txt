@@ -1,1 +1,2 @@
-chleb
+chleb 5
+jajka 10
