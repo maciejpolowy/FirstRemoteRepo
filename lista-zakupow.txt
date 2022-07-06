@@ -1,3 +1,4 @@
 chleb 5
 jajka 10
 maslo 8
+ryz 4
